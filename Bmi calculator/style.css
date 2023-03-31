@@ -1,0 +1,46 @@
+body{
+	background-color: white;
+	height: 400px;
+
+}
+
+#container{
+text-align: center;
+background-color: white;
+color: white;
+margin-top: 10%;
+}
+
+h1{
+	color: black;
+}
+
+
+#container input{
+	width: 200px;
+	background-color: black;
+	border: 1x solid white ;
+	border-radius: 20px ;
+	color: white;
+}
+
+#sbmt_btn{
+margin-top: 25px;
+font-size: 22px;
+width: 90px;
+align-items: center;
+background-color: black;
+border: 2px solid red;
+color: white;
+font-family: italic;
+border-radius: 10px;
+}
+
+
+#footer{
+	display: block;
+	background-color: black;
+	margin-top: 259px;
+	color: white;
+	text-align: center;
+}
